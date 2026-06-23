@@ -97,7 +97,3 @@ GUI test screenshots are written to `.tmp/screenshots/`.
 ## Release
 
 The source repository stays lightweight. Download the Windows portable package from the GitHub Releases page.
-
-## License
-
-No license has been selected yet. Add a `LICENSE` file before publishing if you want others to reuse, modify, or redistribute the code under clear terms.
