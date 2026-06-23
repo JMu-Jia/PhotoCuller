@@ -12,6 +12,8 @@ For normal users, download `PhotoCuller-Windows-Portable-v1.0.0.zip` from GitHub
 Start_Photo_Culler.cmd
 ```
 
+No Python installation, `pip install`, or environment setup is required. The portable package already includes its own Python Runtime and dependencies.
+
 Do not launch `Runtime/python.exe` or `Runtime/pythonw.exe` directly.
 
 ## Features
@@ -54,7 +56,9 @@ Do not launch `Runtime/python.exe` or `Runtime/pythonw.exe` directly.
 
 The screenshot above is captured from the running app with the bundled sample image.
 
-## Development
+## Development Only
+
+This section is only for developers who want to modify the source code. Normal users should use the portable Release package above.
 
 The source entry point is:
 
