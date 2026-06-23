@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.tmp/
+build/
+dist/
+*.spec
+*.log
+
+# Runtime/release artifacts are uploaded as GitHub Release assets.
+release/*.zip
+release/PhotoCullerPortable/
+release/PhotoCuller-Windows-Portable/
+
+# Photo-culling state and generated folders.
+.photo-culler-state.json
+PICK/
+_TRASH/
